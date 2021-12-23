@@ -1,0 +1,15 @@
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.AssemblyReference.cache
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.cache
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.CoreCompileInputs.cache
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\bin\Debug\Mobil.accdb
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form2.resources
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form3.resources
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form4.resources
+C:\Users\ПК_4\source\repos\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Spravka.resources
